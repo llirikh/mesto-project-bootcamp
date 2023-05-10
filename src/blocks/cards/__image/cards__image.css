@@ -1,0 +1,19 @@
+﻿.cards__image {
+    margin: 0;
+    padding: 0;
+
+    width: 100%;
+
+    position: relative;
+
+    box-sizing: border-box;
+    overflow: hidden;
+
+    object-fit: cover;
+}
+
+@media (max-width: 282px) {
+    .cards__image {
+        margin: 0 auto;
+    }
+}

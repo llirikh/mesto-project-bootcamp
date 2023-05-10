@@ -1,0 +1,13 @@
+﻿.cards {
+    padding-top: 51px;
+
+    font-family: 'Inter', 'Arial', 'sans-serif';
+    font-style: normal;
+}
+
+@media (max-width: 619px) {
+    .cards {
+        padding-top: 0;
+        margin: 36px 19px 5px;
+    }
+}
