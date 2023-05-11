@@ -24,7 +24,7 @@
 
 ## Инструкция<div id="instruction"></div>
 
-Для просмотра страницы откройте страницу [llirikh.github.io/mesto-project-bootcamp/](https://llirikh.github.io/mesto-project-bootcamp/)
+Для просмотра страницы откройте страницу [https://llirikh.github.io/mesto-project-bootcamp/](https://llirikh.github.io/mesto-project-bootcamp/)
 
 Для работы с проектом локально достаточно склонировать репозиторий проекта и открыть проект на локальном сервере
 
