@@ -2,9 +2,9 @@
     padding: 36px 0 0;
 
     display: flex;
-    gap: 30px;
     align-items: center;
     justify-content: space-between;
+    gap: 30px;
 
     color: white;
 }
@@ -12,12 +12,8 @@
 @media (max-width: 619px) {
     .profile {
         padding: 42px 19px 0;
-    }
-}
 
-@media (max-width: 619px) {
-    .profile {
-        gap: 26px;
         flex-direction: column;
+        gap: 26px;
     }
 }

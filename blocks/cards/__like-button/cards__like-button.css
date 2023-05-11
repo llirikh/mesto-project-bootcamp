@@ -9,7 +9,7 @@
 }
 
 .cards__like-button:hover {
-    opacity: 0.6;
+    opacity: 0.5;
 }
 
 .cards__like-button:active {

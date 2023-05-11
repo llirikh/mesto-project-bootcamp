@@ -14,8 +14,6 @@
     background: transparent url(../../../images/close-button.svg) no-repeat center;
     outline: none;
     border: none;
-
-    overflow: hidden;
 }
 
 .popup__close-button:hover {

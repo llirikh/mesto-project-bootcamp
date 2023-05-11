@@ -1,5 +1,5 @@
 ﻿.popup__save-button {
-    margin: 18px 0 0;
+    margin: 23px 0 0;
     padding: 0;
 
     width: 100%;
@@ -15,8 +15,6 @@
     border: none;
     border-radius: 2px;
 
-    overflow: hidden;
-
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
@@ -25,7 +23,7 @@
 }
 
 .popup__save-button:hover {
-    opacity: 0.7;
+    opacity: 0.8;
 }
 
 
